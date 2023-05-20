@@ -126,7 +126,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 ![Screenshot (2)](https://github.com/durga46/Ex_5_Send-SMS-Using-Intent/assets/75235704/5575e039-a2b9-4c06-9a0f-52a2d59ca2c4)
+![Screenshot (3)](https://github.com/durga46/Ex_5_Send-SMS-Using-Intent/assets/75235704/b49a43f4-84c9-45b0-a411-353f591dbaa2)
 
+![Screenshot (4)](https://github.com/durga46/Ex_5_Send-SMS-Using-Intent/assets/75235704/19bfd029-b56a-45ca-bb49-339e1d2e46e5)
 
 
 
